@@ -21,3 +21,11 @@ function findTax(salary) {
 
     console.log(`Salary: ${salary}, Tax: ${tax}`);
 }
+
+// Example usage
+findTax(400000);  
+findTax(700000);  
+findTax(1200000); 
+findTax(1800000); 
+findTax(-5000);
+findTax(0); 
