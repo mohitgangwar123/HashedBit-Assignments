@@ -1,0 +1,18 @@
+
+    .text-here {
+      margin-bottom: 20px;
+      padding: 10px;
+    }
+
+    .stylebt {
+      margin-right: 5px;
+      padding: 5px 10px;
+    }
+
+    #css-props {
+      margin-top: 15px;
+      font-family: monospace;
+      background-color: #f5f5f5;
+      padding: 10px;
+      border-radius: 5px;
+    }
